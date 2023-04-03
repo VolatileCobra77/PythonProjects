@@ -1,0 +1,16 @@
+click windows and type cmd
+click enter
+open your file explorer and navigate to your desktop
+find PythonProjects-Games or something similar
+drag and drop that folder into your command prompt
+you should see something like this:
+C:\users\YOURNAME\>"C:\users\YOURNAME\Desktop\PythonProjects-Games"
+use the arrow keys to navigate to between the arrow and quote(>" You should be between those)
+make sure the flashing white square is below the first " and type cd and then a space
+the new line should now read:
+C:\users\YOURNAME\Desktop\PythonProjects-Games>
+from there type cd pythonGames
+now it should say
+C:\users\YOURNAME\Desktop\PythonProjects-Games\pythonGames>
+now type python "Data\.pyfiles\main.py" and hit enter
+if you get stuck message me!
